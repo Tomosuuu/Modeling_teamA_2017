@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		7D93A78E201976500090A769 /* alarm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D93A78D201976500090A769 /* alarm.swift */; };
 		7D93A7902022AF7B0090A769 /* 8524.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7D93A78F2022AF7A0090A769 /* 8524.mp3 */; };
+		7DA93EDA202BE1CD0080F2E8 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7D93A7922022AFF80090A769 /* AVFoundation.framework */; };
 		B817FE5D1FEADD450057FFA1 /* map1.swift in Sources */ = {isa = PBXBuildFile; fileRef = B817FE5C1FEADD450057FFA1 /* map1.swift */; };
 		B8292EB21FE2AD3700B7CA87 /* manage_credit.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8292EB11FE2AD3700B7CA87 /* manage_credit.swift */; };
 		B86BC7A01FBD2AF8006354EC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B86BC79F1FBD2AF8006354EC /* AppDelegate.swift */; };
@@ -46,6 +47,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7DA93EDA202BE1CD0080F2E8 /* AVFoundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
