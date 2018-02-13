@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var label: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
-        label.text = "便利ツール"
+        label.text = "勝ち取り単位卍！！！"
     }
 
     override func didReceiveMemoryWarning() {
@@ -51,7 +51,7 @@ class ViewController: UIViewController {
     
     
     @IBAction func buttonTapped6(_ sender: Any) {
-        label.text = "アラーム"
+        label.text = "勝ち取り単位卍！！！"
     }
     
     
