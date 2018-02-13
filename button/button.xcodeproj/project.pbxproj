@@ -11,6 +11,7 @@
 		7D93A78E201976500090A769 /* alarm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D93A78D201976500090A769 /* alarm.swift */; };
 		7D93A7902022AF7B0090A769 /* 8524.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7D93A78F2022AF7A0090A769 /* 8524.mp3 */; };
 		7DA93EDA202BE1CD0080F2E8 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7D93A7922022AFF80090A769 /* AVFoundation.framework */; };
+		9045B7AF20331F2D0057A969 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9045B7AE20331F2D0057A969 /* CustomButton.swift */; };
 		B817FE5D1FEADD450057FFA1 /* map1.swift in Sources */ = {isa = PBXBuildFile; fileRef = B817FE5C1FEADD450057FFA1 /* map1.swift */; };
 		B8292EB21FE2AD3700B7CA87 /* manage_credit.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8292EB11FE2AD3700B7CA87 /* manage_credit.swift */; };
 		B86BC7A01FBD2AF8006354EC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B86BC79F1FBD2AF8006354EC /* AppDelegate.swift */; };
@@ -29,6 +30,7 @@
 		7D93A78D201976500090A769 /* alarm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = alarm.swift; sourceTree = "<group>"; };
 		7D93A78F2022AF7A0090A769 /* 8524.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = 8524.mp3; path = ../../../../Downloads/8524.mp3; sourceTree = "<group>"; };
 		7D93A7922022AFF80090A769 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		9045B7AE20331F2D0057A969 /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
 		B817FE5C1FEADD450057FFA1 /* map1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = map1.swift; sourceTree = "<group>"; };
 		B8292EB11FE2AD3700B7CA87 /* manage_credit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = manage_credit.swift; sourceTree = "<group>"; };
 		B86BC79C1FBD2AF8006354EC /* button.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = button.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -84,6 +86,7 @@
 		B86BC79E1FBD2AF8006354EC /* button */ = {
 			isa = PBXGroup;
 			children = (
+				9045B7AE20331F2D0057A969 /* CustomButton.swift */,
 				B8F6F40C1FEB0A9E009C1754 /* map2.swift */,
 				B8F6F40E1FEB0B32009C1754 /* map3.swift */,
 				B8F6F4101FEB0B5A009C1754 /* map4.swift */,
@@ -182,6 +185,7 @@
 				B817FE5D1FEADD450057FFA1 /* map1.swift in Sources */,
 				B86BC7A21FBD2AF8006354EC /* ViewController.swift in Sources */,
 				B8F6F40F1FEB0B32009C1754 /* map3.swift in Sources */,
+				9045B7AF20331F2D0057A969 /* CustomButton.swift in Sources */,
 				B86BC7A01FBD2AF8006354EC /* AppDelegate.swift in Sources */,
 				B8292EB21FE2AD3700B7CA87 /* manage_credit.swift in Sources */,
 				B8F6F40D1FEB0A9E009C1754 /* map2.swift in Sources */,
