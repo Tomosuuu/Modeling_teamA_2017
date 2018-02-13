@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7D57CCA820331FDD00366BCC /* m08.png in Resources */ = {isa = PBXBuildFile; fileRef = 7D57CCA720331FDD00366BCC /* m08.png */; };
 		7D93A78E201976500090A769 /* alarm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D93A78D201976500090A769 /* alarm.swift */; };
 		7D93A7902022AF7B0090A769 /* 8524.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7D93A78F2022AF7A0090A769 /* 8524.mp3 */; };
 		7DA93EDA202BE1CD0080F2E8 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7D93A7922022AFF80090A769 /* AVFoundation.framework */; };
@@ -24,6 +25,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7D57CCA720331FDD00366BCC /* m08.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = m08.png; path = ../../../../Downloads/m08.png; sourceTree = "<group>"; };
 		7D93A78D201976500090A769 /* alarm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = alarm.swift; sourceTree = "<group>"; };
 		7D93A78F2022AF7A0090A769 /* 8524.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = 8524.mp3; path = ../../../../Downloads/8524.mp3; sourceTree = "<group>"; };
 		7D93A7922022AFF80090A769 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
@@ -95,6 +97,7 @@
 				B86BC7A61FBD2AF8006354EC /* Assets.xcassets */,
 				B86BC7A81FBD2AF8006354EC /* LaunchScreen.storyboard */,
 				B86BC7AB1FBD2AF8006354EC /* Info.plist */,
+				7D57CCA720331FDD00366BCC /* m08.png */,
 				7D93A78F2022AF7A0090A769 /* 8524.mp3 */,
 			);
 			path = button;
@@ -160,6 +163,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B86BC7AA1FBD2AF8006354EC /* LaunchScreen.storyboard in Resources */,
+				7D57CCA820331FDD00366BCC /* m08.png in Resources */,
 				7D93A7902022AF7B0090A769 /* 8524.mp3 in Resources */,
 				B86BC7A71FBD2AF8006354EC /* Assets.xcassets in Resources */,
 				B86BC7A51FBD2AF8006354EC /* Main.storyboard in Resources */,
