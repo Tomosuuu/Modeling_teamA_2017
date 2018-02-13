@@ -29,7 +29,7 @@ class ViewController: UIViewController {
         label.text = "時間割表"
     }
     
-    //単位取得s
+    //単位取得
     @IBAction func buttonTapped2(_ sender: AnyObject) {
       performSegue(withIdentifier: "manage_credit", sender: nil)
     }
