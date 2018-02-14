@@ -13,7 +13,7 @@
         <!--attendView Controller Scene-->
         <scene sceneID="uEr-i8-s2Z">
             <objects>
-                <viewController storyboardIdentifier="attend" id="iwc-Qk-TYA" userLabel="attendView Controller Scene" customClass="attend" customModule="勝ち取り単位卍" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="attend" id="iwc-Qk-TYA" userLabel="attendView Controller Scene" customClass="attend" customModule="卍勝ち取り単位卍" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="g37-8q-YVd">
                         <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -40,7 +40,7 @@
         <!--mapView Controller-->
         <scene sceneID="Nra-Rt-2IZ">
             <objects>
-                <viewController storyboardIdentifier="map" id="Jd3-3G-SOa" userLabel="mapView Controller" customClass="mapViewController" customModule="勝ち取り単位卍" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="map" id="Jd3-3G-SOa" userLabel="mapView Controller" customClass="mapViewController" customModule="卍勝ち取り単位卍" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="VVS-md-jw2">
                         <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -107,7 +107,7 @@
         <!--Alarm-->
         <scene sceneID="C7e-Cj-ZEb">
             <objects>
-                <viewController id="6Pi-3a-Zmg" customClass="alarm" customModule="勝ち取り単位卍" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="6Pi-3a-Zmg" customClass="alarm" customModule="卍勝ち取り単位卍" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="513-3A-KFp">
                         <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -172,7 +172,7 @@
         <!--map1View Controller-->
         <scene sceneID="5c3-MP-0iC">
             <objects>
-                <viewController storyboardIdentifier="map1" id="reR-NP-tJf" userLabel="map1View Controller" customClass="map1ViewController" customModule="勝ち取り単位卍" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="map1" id="reR-NP-tJf" userLabel="map1View Controller" customClass="map1ViewController" customModule="卍勝ち取り単位卍" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="RrP-M1-JGy">
                         <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -410,7 +410,7 @@
         <!--map2View Controller-->
         <scene sceneID="HIB-F9-P1I">
             <objects>
-                <viewController storyboardIdentifier="map2" id="qZl-Lc-aah" userLabel="map2View Controller" customClass="map2ViewController" customModule="勝ち取り単位卍" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="map2" id="qZl-Lc-aah" userLabel="map2View Controller" customClass="map2ViewController" customModule="卍勝ち取り単位卍" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Y6c-u8-ge3">
                         <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -878,7 +878,7 @@
         <!--map3View Controller-->
         <scene sceneID="MpZ-eh-Jkp">
             <objects>
-                <viewController storyboardIdentifier="map3" id="TPX-ts-6iS" userLabel="map3View Controller" customClass="map3ViewController" customModule="勝ち取り単位卍" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="map3" id="TPX-ts-6iS" userLabel="map3View Controller" customClass="map3ViewController" customModule="卍勝ち取り単位卍" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="vDX-QK-IYw">
                         <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -961,7 +961,7 @@
         <!--map4View Controller-->
         <scene sceneID="F5M-p4-dnB">
             <objects>
-                <viewController storyboardIdentifier="map4" id="68I-kS-l5L" userLabel="map4View Controller" customClass="map4ViewController" customModule="勝ち取り単位卍" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="map4" id="68I-kS-l5L" userLabel="map4View Controller" customClass="map4ViewController" customModule="卍勝ち取り単位卍" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="WNH-Te-kGf">
                         <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1059,7 +1059,7 @@
         <!--mainView Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController storyboardIdentifier="main" id="BYZ-38-t0r" userLabel="mainView Controller" customClass="ViewController" customModule="勝ち取り単位卍" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="main" id="BYZ-38-t0r" userLabel="mainView Controller" customClass="ViewController" customModule="卍勝ち取り単位卍" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1083,8 +1083,8 @@
                                     <action selector="buttonTapped1:" destination="BYZ-38-t0r" eventType="touchUpInside" id="FId-Ul-Cmy"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="勝ち取り単位卍！！！" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XTM-IN-dlt">
-                                <rect key="frame" x="140" y="65" width="502" height="91"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="卍勝ち取り単位卍！！！" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XTM-IN-dlt">
+                                <rect key="frame" x="115" y="65" width="553" height="91"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="50"/>
                                 <nil key="textColor"/>
@@ -1139,7 +1139,7 @@
                                 </connections>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" red="0.88818925619125366" green="0.99334853887557983" blue="0.65475523471832275" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="0.72210317850112915" green="0.98561042547225952" blue="0.68271005153656006" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
@@ -1153,7 +1153,7 @@
         <!--manage_creditView Controller-->
         <scene sceneID="L3z-3y-k3u">
             <objects>
-                <viewController storyboardIdentifier="manage_credit" id="5um-iz-V4z" userLabel="manage_creditView Controller" customClass="manage_credit" customModule="勝ち取り単位卍" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="manage_credit" id="5um-iz-V4z" userLabel="manage_creditView Controller" customClass="manage_credit" customModule="卍勝ち取り単位卍" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="983-n7-uOQ">
                         <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

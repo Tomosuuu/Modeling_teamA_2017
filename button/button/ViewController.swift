@@ -12,12 +12,14 @@ class ViewController: UIViewController {
     
     
     
+    
      @IBAction func goBack(_ segue:UIStoryboardSegue) {}
     
     @IBOutlet weak var label: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
-        label.text = "勝ち取り単位卍！！！"
+        
+        label.text = "卍勝ち取り単位卍！！！"
     }
 
     override func didReceiveMemoryWarning() {
@@ -51,7 +53,7 @@ class ViewController: UIViewController {
     
     
     @IBAction func buttonTapped6(_ sender: Any) {
-        label.text = "勝ち取り単位卍！！！"
+        label.text = "卍勝ち取り単位卍！！！"
     }
     
     

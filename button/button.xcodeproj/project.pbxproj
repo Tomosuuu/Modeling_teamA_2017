@@ -7,13 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7D17B64120332AE700D15D23 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D17B64020332AE700D15D23 /* AppDelegate.swift */; };
-		7D17B64320332AE700D15D23 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D17B64220332AE700D15D23 /* ViewController.swift */; };
-		7D17B64620332AE700D15D23 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D17B64420332AE700D15D23 /* Main.storyboard */; };
-		7D17B64820332AE700D15D23 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7D17B64720332AE700D15D23 /* Assets.xcassets */; };
-		7D17B64B20332AE700D15D23 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D17B64920332AE700D15D23 /* LaunchScreen.storyboard */; };
-		7D17B65620332AE700D15D23 /* button2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D17B65520332AE700D15D23 /* button2Tests.swift */; };
-		7D17B66120332AE700D15D23 /* button2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D17B66020332AE700D15D23 /* button2UITests.swift */; };
 		7D93A78E201976500090A769 /* alarm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D93A78D201976500090A769 /* alarm.swift */; };
 		7D93A7902022AF7B0090A769 /* 8524.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7D93A78F2022AF7A0090A769 /* 8524.mp3 */; };
 		7DA93EDA202BE1CD0080F2E8 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7D93A7922022AFF80090A769 /* AVFoundation.framework */; };
@@ -50,25 +43,15 @@
 
 /* Begin PBXFileReference section */
 		7D17B63E20332AE600D15D23 /* button2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = button2.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		7D17B64020332AE700D15D23 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		7D17B64220332AE700D15D23 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		7D17B64520332AE700D15D23 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		7D17B64720332AE700D15D23 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		7D17B64A20332AE700D15D23 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		7D17B64C20332AE700D15D23 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7D17B65120332AE700D15D23 /* button2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = button2Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		7D17B65520332AE700D15D23 /* button2Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = button2Tests.swift; sourceTree = "<group>"; };
-		7D17B65720332AE700D15D23 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7D17B65C20332AE700D15D23 /* button2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = button2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		7D17B66020332AE700D15D23 /* button2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = button2UITests.swift; sourceTree = "<group>"; };
-		7D17B66220332AE700D15D23 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7D93A78D201976500090A769 /* alarm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = alarm.swift; sourceTree = "<group>"; };
 		7D93A78F2022AF7A0090A769 /* 8524.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = 8524.mp3; path = ../../../../Downloads/8524.mp3; sourceTree = "<group>"; };
 		7D93A7922022AFF80090A769 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		9045B7AE20331F2D0057A969 /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
 		B817FE5C1FEADD450057FFA1 /* map1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = map1.swift; sourceTree = "<group>"; };
 		B8292EB11FE2AD3700B7CA87 /* manage_credit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = manage_credit.swift; sourceTree = "<group>"; };
-		B86BC79C1FBD2AF8006354EC /* 勝ち取り単位卍.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "勝ち取り単位卍.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B86BC79C1FBD2AF8006354EC /* 卍勝ち取り単位卍.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "卍勝ち取り単位卍.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B86BC79F1FBD2AF8006354EC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B86BC7A11FBD2AF8006354EC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		B86BC7A41FBD2AF8006354EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -114,37 +97,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		7D17B63F20332AE600D15D23 /* button2 */ = {
-			isa = PBXGroup;
-			children = (
-				7D17B64020332AE700D15D23 /* AppDelegate.swift */,
-				7D17B64220332AE700D15D23 /* ViewController.swift */,
-				7D17B64420332AE700D15D23 /* Main.storyboard */,
-				7D17B64720332AE700D15D23 /* Assets.xcassets */,
-				7D17B64920332AE700D15D23 /* LaunchScreen.storyboard */,
-				7D17B64C20332AE700D15D23 /* Info.plist */,
-			);
-			path = button2;
-			sourceTree = "<group>";
-		};
-		7D17B65420332AE700D15D23 /* button2Tests */ = {
-			isa = PBXGroup;
-			children = (
-				7D17B65520332AE700D15D23 /* button2Tests.swift */,
-				7D17B65720332AE700D15D23 /* Info.plist */,
-			);
-			path = button2Tests;
-			sourceTree = "<group>";
-		};
-		7D17B65F20332AE700D15D23 /* button2UITests */ = {
-			isa = PBXGroup;
-			children = (
-				7D17B66020332AE700D15D23 /* button2UITests.swift */,
-				7D17B66220332AE700D15D23 /* Info.plist */,
-			);
-			path = button2UITests;
-			sourceTree = "<group>";
-		};
 		7D93A7912022AFF70090A769 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -157,9 +109,6 @@
 			isa = PBXGroup;
 			children = (
 				B86BC79E1FBD2AF8006354EC /* button */,
-				7D17B63F20332AE600D15D23 /* button2 */,
-				7D17B65420332AE700D15D23 /* button2Tests */,
-				7D17B65F20332AE700D15D23 /* button2UITests */,
 				B86BC79D1FBD2AF8006354EC /* Products */,
 				7D93A7912022AFF70090A769 /* Frameworks */,
 			);
@@ -168,7 +117,7 @@
 		B86BC79D1FBD2AF8006354EC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B86BC79C1FBD2AF8006354EC /* 勝ち取り単位卍.app */,
+				B86BC79C1FBD2AF8006354EC /* 卍勝ち取り単位卍.app */,
 				7D17B63E20332AE600D15D23 /* button2.app */,
 				7D17B65120332AE700D15D23 /* button2Tests.xctest */,
 				7D17B65C20332AE700D15D23 /* button2UITests.xctest */,
@@ -268,7 +217,7 @@
 			);
 			name = button;
 			productName = button;
-			productReference = B86BC79C1FBD2AF8006354EC /* 勝ち取り単位卍.app */;
+			productReference = B86BC79C1FBD2AF8006354EC /* 卍勝ち取り単位卍.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -327,9 +276,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7D17B64B20332AE700D15D23 /* LaunchScreen.storyboard in Resources */,
-				7D17B64820332AE700D15D23 /* Assets.xcassets in Resources */,
-				7D17B64620332AE700D15D23 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -365,8 +311,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7D17B64320332AE700D15D23 /* ViewController.swift in Sources */,
-				7D17B64120332AE700D15D23 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -374,7 +318,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7D17B65620332AE700D15D23 /* button2Tests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -382,7 +325,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7D17B66120332AE700D15D23 /* button2UITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -419,22 +361,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		7D17B64420332AE700D15D23 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				7D17B64520332AE700D15D23 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		7D17B64920332AE700D15D23 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				7D17B64A20332AE700D15D23 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
 		B86BC7A31FBD2AF8006354EC /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -487,7 +413,6 @@
 		7D17B66720332AE700D15D23 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = button2Tests/Info.plist;
@@ -504,7 +429,6 @@
 		7D17B66820332AE700D15D23 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = button2Tests/Info.plist;
@@ -521,7 +445,6 @@
 		7D17B66A20332AE700D15D23 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = button2UITests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
@@ -537,7 +460,6 @@
 		7D17B66B20332AE700D15D23 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = button2UITests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
@@ -666,7 +588,7 @@
 				INFOPLIST_FILE = button/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = yukyu.button;
-				PRODUCT_NAME = "勝ち取り単位卍";
+				PRODUCT_NAME = "卍勝ち取り単位卍";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -681,7 +603,7 @@
 				INFOPLIST_FILE = button/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = yukyu.button;
-				PRODUCT_NAME = "勝ち取り単位卍";
+				PRODUCT_NAME = "卍勝ち取り単位卍";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
