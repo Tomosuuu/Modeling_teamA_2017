@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3DB79DDF2033EECB007BCECC /* timetable_controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DB79DDE2033EECA007BCECC /* timetable_controller.swift */; };
+		3DB79DE12033EF5C007BCECC /* 8524.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3DB79DE02033EF5C007BCECC /* 8524.mp3 */; };
 		7D17B64120332AE700D15D23 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D17B64020332AE700D15D23 /* AppDelegate.swift */; };
 		7D17B64320332AE700D15D23 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D17B64220332AE700D15D23 /* ViewController.swift */; };
 		7D17B64620332AE700D15D23 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D17B64420332AE700D15D23 /* Main.storyboard */; };
@@ -49,6 +51,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3DB79DDE2033EECA007BCECC /* timetable_controller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = timetable_controller.swift; sourceTree = "<group>"; };
+		3DB79DE02033EF5C007BCECC /* 8524.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 8524.mp3; sourceTree = "<group>"; };
 		7D17B63E20332AE600D15D23 /* button2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = button2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7D17B64020332AE700D15D23 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7D17B64220332AE700D15D23 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -188,6 +192,8 @@
 				B86BC79F1FBD2AF8006354EC /* AppDelegate.swift */,
 				B86BC7A11FBD2AF8006354EC /* ViewController.swift */,
 				B86BC7A31FBD2AF8006354EC /* Main.storyboard */,
+				3DB79DDE2033EECA007BCECC /* timetable_controller.swift */,
+				3DB79DE02033EF5C007BCECC /* 8524.mp3 */,
 				7D93A78D201976500090A769 /* alarm.swift */,
 				B8292EB11FE2AD3700B7CA87 /* manage_credit.swift */,
 				B86BC7A61FBD2AF8006354EC /* Assets.xcassets */,
@@ -353,6 +359,7 @@
 			files = (
 				B86BC7AA1FBD2AF8006354EC /* LaunchScreen.storyboard in Resources */,
 				7D93A7902022AF7B0090A769 /* 8524.mp3 in Resources */,
+				3DB79DE12033EF5C007BCECC /* 8524.mp3 in Resources */,
 				B86BC7A71FBD2AF8006354EC /* Assets.xcassets in Resources */,
 				B86BC7A51FBD2AF8006354EC /* Main.storyboard in Resources */,
 			);
@@ -392,6 +399,7 @@
 			files = (
 				7D93A78E201976500090A769 /* alarm.swift in Sources */,
 				B8D8A94F1FEABEE700F31A4E /* map.swift in Sources */,
+				3DB79DDF2033EECB007BCECC /* timetable_controller.swift in Sources */,
 				B817FE5D1FEADD450057FFA1 /* map1.swift in Sources */,
 				B86BC7A21FBD2AF8006354EC /* ViewController.swift in Sources */,
 				9045B7B12033435F0057A969 /* CustomButton.swift in Sources */,

@@ -27,6 +27,7 @@ class ViewController: UIViewController {
         //以下ボタンのコード
     @IBAction func buttonTapped1(_ sender: Any) {
         label.text = "時間割表"
+      performSegue(withIdentifier: "timetable", sender: nil)
     }
     
     //単位取得
@@ -59,6 +60,7 @@ class ViewController: UIViewController {
     @IBAction func buttonTapped7(_ sender: AnyObject) {
         performSegue(withIdentifier: "map", sender: nil)
     }
+  
     
 }
 
